@@ -5,8 +5,8 @@ iv = "youtube_encyptyo"
 salt = "youtube_AesEncryption"
 
 # AWS Access And Secret key
-aws_access_key = "OrShFTjCqu7aIhSTA7lhYdZaxaQDnz8d5Y4l4rax4OE="
-aws_secret_key = "pnlIZUTMbctYciVtb9q7MJ7cceTXHT9KI3+sI1a1DrjX0mXm+CNBVQ4gAZeE27R9"
+aws_access_key = "Your Encrypted key"
+aws_secret_key = "Your Encrypted key"
 bucket_name = "sales-cust-data"
 s3_customer_datamart_directory = "customer_data_mart"
 s3_sales_datamart_directory = "sales_data_mart"
@@ -17,7 +17,7 @@ s3_processed_directory = "sales_data_processed/"
 
 # Database credential
 # MySQL database connection properties
-database_name = "sales_project"
+database_name = "your database name"
 url = f"jdbc:mysql://localhost:3306/{database_name}"
 properties = {
     "user": "root",
@@ -50,7 +50,7 @@ error_folder_path_local = "C:\\Users\\rkarw\\Desktop\\Data Engineering project(S
 
 # SQL server
 host = "localhost"
-user ="root"
-password="toor"
-database="sales_project"
+user ="user_name"
+password="your encrypted pass"
+database="your db name"
 table_name="product_staging_table"
