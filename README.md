@@ -101,8 +101,6 @@ my_project/
 │   │    └── generate_csv_data.py
 ```
 
-```
-
 ## ⚙️ Configuration
 The application is configured through the `resources/dev/config.py` file. Key configuration parameters include:
 
@@ -122,7 +120,7 @@ The application is configured through the `resources/dev/config.py` file. Key co
 
 ## System Design Diagram
 
-![Sys Design](./docs/System_Design_Diagram.JPG)
+![Sys_Design](./docs/System_Design_Diagram.JPG)
 
 ## Data Flow Diagram
 
